@@ -59,7 +59,6 @@
     
 </style>
 
-
 <?php
     $error = [];
     $email = "";
